@@ -10,8 +10,8 @@ Ducklingo Translation Bot is a Telegram bot that provides fast and accurate tran
 ## Getting Started
 
 ### Prerequisites
-- Python 3.9+ or Node.js (if built in JavaScript).
-- Telegram Bot Token (obtain from [BotFather](https://core.telegram.org/bots#botfather)).
+- Python 3.9+ 
+- Telegram Bot Token (obtain from [BotFather]
 
 ### Installation
 1. Clone this repository:
