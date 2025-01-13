@@ -1,0 +1,2 @@
+# Ducklingo-Translation-Bot
+translator
