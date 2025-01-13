@@ -61,7 +61,7 @@ async def translate_text(update: Update, context: ContextTypes.DEFAULT_TYPE):
 def main():
     """Start the bot."""
     # Replace YOUR_BOT_TOKEN with your actual token from BotFather
-    TOKEN = "8162879215:AAEUCm62KYbSWJ345WdYlEpJbi552Tznnwo"
+    TOKEN = "enter the token here "
     
     # Create the application
     application = Application.builder().token(TOKEN).build()
