@@ -1,6 +1,6 @@
 # Ducklingo Translation Bot 🦆
 
-Ducklingo Translation Bot is a Telegram bot that provides fast and accurate translations, helping users explore and understand languages effortlessly.
+Ducklingo Translation Bot, also known as [@Wordflarebot](https://t.me/Wordflarebot), is a Telegram bot that provides fast and accurate translations, helping users explore and understand languages effortlessly.
 
 ## Features
 - Supports multiple languages for translation.
@@ -11,7 +11,7 @@ Ducklingo Translation Bot is a Telegram bot that provides fast and accurate tran
 
 ### Prerequisites
 - Python 3.9+ 
-- Telegram Bot Token (obtain from [BotFather]
+- Telegram Bot Token (obtain from [BotFather](https://core.telegram.org/bots#botfather)).
 
 ### Installation
 1. Clone this repository:
